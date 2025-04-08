@@ -15,7 +15,7 @@ rh
 
 ;twrjhippow
 
-dgiohdfiosugdfs***#(https://test-phl-api.fyinformation.cc)#***
+dgiohdfiosugdfs***#(test-phl-api.fyinformation.cc)#***
 sfdf
 dsgsdfghfsdgs
 
